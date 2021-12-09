@@ -14,7 +14,7 @@ Học kì thứ 5 / 2019-2023 <br> <hr> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-Học phần: Đồ án Công nghệ thông tin (=1 tín chỉ)
+Học phần: Đồ án Công nghệ thông tin (1 tín chỉ)
 
 Đây là đồ án cuối kì môn Đồ án Công nghệ thông tin. <br>
 Đề tài: <br>
@@ -29,6 +29,6 @@ Nguyễn Xuân Nam     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Nguyễn Dương Quốc Anh   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  19110164<br>
 
-Tài khoản admin mặc định : admin@gmail.com
+Tài khoản admin mặc định : admin@gmail.com <br>
 Mật khẩu admin mặc định : 123
 
