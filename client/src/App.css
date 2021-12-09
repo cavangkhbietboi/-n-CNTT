@@ -1,0 +1,232 @@
+.App {
+  font-size: 18px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* Header.js */
+.header{
+  font-size: 24px;
+}
+.btn-nav{
+  width: auto!important;
+}
+.logo-header{
+  width: 60px;
+  height: 100%;
+}
+
+.logo-interest {
+  margin-right: 8px;
+  width: 30px;
+  height: 90%;
+}
+
+.logo-interested {
+  height: 100%;
+  width: 1.875rem;
+}
+
+/* Home */
+.body-container{
+  text-align:left;
+  width: 80%;
+  height: 100%;
+  margin: 5vh auto;
+}
+.player-name{
+  margin-left: 20vw;
+}
+.auction-title{
+  font-size: 24px;
+  font-weight: bold;
+  padding-left: 3vw;
+}
+.auction-link{
+  text-decoration: none !important;
+  color: #000;
+}
+.auction-link:hover{
+  color: #000;
+}
+.grid-body{
+  margin-left: 5vw;
+}
+/* auction */
+.auction-table{
+  width: 90% !important;
+  margin: 3vh auto ;
+  text-align: center;
+}
+.description{
+  font-size: 26px;
+  font-weight: bold;
+  margin: 1vh 5vw 3vh;
+  color:mediumturquoise;
+}
+.descript{
+  margin: 3vh 5vw 15vh;
+}
+
+/* Admin */
+.cont-admin{
+  padding-top: 20vh;
+  height: auto;
+  width: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15vh;
+  z-index: 1;
+  position: relative;
+}
+.subcont-admin{
+  margin-left: auto;
+  margin-right: auto; 
+  border: solid 1px;
+  border-radius: 8px;
+  width: 100%;
+  height: 100%;
+  box-sizing:border-box;
+  background-color: rgb(185, 185, 185);
+}
+.title-admin{
+  margin-top: 4vh;
+  text-align: center;
+  color: #17A2B8;
+}
+.box-admin{
+  margin-left: 8vw;
+}
+.group-admin{
+  margin-bottom:2vh;
+  width: 100%;
+}
+.label-admin{
+  width:11vw!important;
+}
+.input-admin{
+  margin-left: 1vw;
+  width: 66%!important;
+  border-radius: 5px!important;
+}
+.input-size{
+  border-radius: 5px!important;
+  width: 45%!important;
+}
+.div-btn-admin{
+  display: flex!important;
+  padding: 2vh 0 5vh 11vw!important;
+}
+.btn-admin{
+  width: 15vw;
+  background-color: #1e6275!important;
+}
+.btn-admin:hover{
+  background-color:#17A2B8!important;
+}
+.img-admin{
+  margin-left: 1.3vw;
+}
+
+::-webkit-file-upload-button {
+  width: auto;
+  height:6vh;
+  color: white;
+  display: inline-block;
+  background: #17A2B8;
+  border: none;
+  border-radius: 5px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+/* List */
+.admins-list-all-product{
+  min-height: 100vh!important;
+ }
+
+.title-list{
+  margin-top: 18vh;
+  text-align: center;
+  color: #17A2B8;
+}
+.img-list img{
+  max-width: 30vw;
+  max-height: 30vh;
+}
+.Listproduct-container{
+  margin: auto 200px ;
+  display: grid;
+  grid-template-columns: 55% 45%;
+}
+.group-list{
+  padding: 30px auto!important;
+}
+.btn-list{
+  width: 10vw;
+  margin: 2vh 0 5vh 0;
+  background-color: #1e6275!important;
+}
+.btn-list:hover{
+  background-color:#17A2B8!important;
+}
+/* addauction */
+.img-detail{
+  margin-left: 11vw!important;
+  margin-bottom: 2vh;
+}
+.img-detail img{
+  max-width: 34vw;
+  /*max-height: 27vh;*/
+}
+/*====================== scroll ======================*/
+::-webkit-scrollbar {
+  width: 13px;
+  background-color: #3eb5c5; }
+
+::-webkit-scrollbar-thumb {
+  border: 1px solid #8fd4dd;
+  background-color: #477c7c; }
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #f5f5f5; }
+
+.scrollbar {
+  background-color: #70c4c7;
+  float: left;
+  height: 300px;
+  margin-bottom: 25px;
+  margin-left: 22px;
+  margin-top: 40px;
+  width: 65px;
+  overflow-y: scroll; }

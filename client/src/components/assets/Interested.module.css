@@ -1,0 +1,103 @@
+.btnReturnBuy {
+    font-size: 18px;
+    margin: 0.9375rem 0.9375rem 2.5rem 0px;
+    padding: 0,3125rem 0.9375rem 0,3125rem 0.9375rem;
+}
+
+.btnReturnBuy:hover {
+    font-size: 18px;
+    /* margin: 0.9375rem 0.9375rem 2.5rem 2.5rem; */
+    /* padding: 0.3125rem 0.9375rem 0.3125rem 0.9375rem; */
+    color: rgb(243, 237, 237);
+    border: 1px solid #17a2b8;
+    background: #17a2b8;
+    box-shadow: 0 0 10px rgb(75, 178, 229);
+}
+
+.btnRemoveIn {
+
+    font-size: 16px;
+    position: absolute;
+    top: -5%;
+    right: -1%;
+    border-radius: 50%;
+}
+
+.btnRemoveIn:hover {
+
+    /* color: ; */
+    box-shadow: 0 0 10px rgb(228, 43, 43);
+    background: #b81747;
+}
+
+.amountInterest {
+    padding: 0,125rem 3.75rem 0,125rem 3.75rem;
+    border-radius: 5px;
+    margin-bottom: 4.35rem !important;
+    margin-left: 6.25rem !important;
+}
+
+
+.amountInterest:hover {
+    opacity: 0.9;
+}
+
+.urlWebsiteBanner {
+    position: absolute;
+    left: 5%;
+    top: 1%;
+    font-weight: 601;
+}
+
+.positionBanner {
+    position: absolute;
+    font-weight: 601;
+    top: 23%;
+    left: 67%;
+
+}
+.sizeBanner {
+    position: absolute;
+    font-weight: 601;
+    top: 34%;
+    left: 67%;
+}
+
+.timeBegunBanner {
+    position: absolute;
+    font-weight: 701;
+    font-size: 20px;
+    top: 8%;
+    left: 66%;
+}
+
+.timePlayBanner {
+    position: absolute;
+    font-weight: 601;
+    top: 45%;
+    left: 67%;
+}
+
+
+.priceBegunBanner {
+    position: absolute;
+    font-weight: 601;
+    top: 67%;
+    left: 67%;
+}
+
+
+.priceJumpBanner {
+    position: absolute;
+    font-weight: 601;
+    top: 56%;
+    left: 67%;
+}
+
+.notifyInterest {
+    position: absolute;
+    font-size: 20px;
+    font-weight: 601;
+    bottom: 12%;
+    left: 67%;
+}
